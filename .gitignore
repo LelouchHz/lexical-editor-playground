@@ -1,0 +1,24 @@
+.history/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+public/assets/images/uploads/
+
+# dotenv environment variable files
+.env
+
+# Logs
+logs
+*.log
+logs/*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# TypeScript
+*.tsbuildinfo
